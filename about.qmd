@@ -5,26 +5,28 @@ sidebar: false
 
 # Education
 
--   B.S., Industrial Engineering, Hacettepe University, Turkey, 20xx - ongoing.
+-   B.S., Industrial Engineering, Hacettepe University, Turkey, 2021 - ongoing.
 
 # Work Experience
 
+- I have no work experience yet
+
 ## Employements
 
-1.  Firm xxx, position xx, year xxx
-
-2.  Firm yyy, position yyy, year yyy
+- I don't have any employements.
 
 ## Internships
 
-1.  Firm aaa, position xx, year xxx
-
-2.  Firm bbb, position yyy, year yyy
+- I have not done an internship yet
 
 # Projects
 
+- I don't have any projects.
+
 # Competencies
 
-R, Quarto, Git, Python
+R, Quarto, Git, Python, MatLab
 
 # Hobbies
+
+-Playing football, playing table tennis, urban downhill, playing video games
