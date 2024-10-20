@@ -2,6 +2,7 @@
 title: "About Me"
 sidebar: false 
 ---
+[My Cv](doc/cv.pdf)
 
 # Education
 
