@@ -5,6 +5,8 @@ project:
 website:
   title: "[Mustafa Alp Ulas]'s Analytics Lab"
   navbar:
+    background: "dark"
+    foreground: "light"
     search: true
     left:
       - text: Home
@@ -45,9 +47,7 @@ format:
   html:
     toc: true
     toc-location: left
-    theme: 
-      light: pulse 
-      dark: superhero
+    theme: sketchy
     css: styles.css
 
 
