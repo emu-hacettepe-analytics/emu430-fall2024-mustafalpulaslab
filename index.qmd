@@ -3,10 +3,10 @@ title: "Welcome to My Analytics Lab"
 sidebar: false 
 ---
 
-Hello! My name is Mustafa Alp Ulaş.
+Hello! My name is Mustafa Alp. I am junior at Hacettepe University.I am trying to finish my Bachelor's Degree in Industrial Engineering.
 
 This is my personal webpage.
 
 Please stay tuned to follow my works on data analytics, blog posts, and more.
 
-This is our template.
+Do what excites (DWE)

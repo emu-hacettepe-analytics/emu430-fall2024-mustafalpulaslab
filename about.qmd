@@ -2,15 +2,15 @@
 title: "About Me"
 sidebar: false 
 ---
-[My Cv](docs/My_Cv_withenglish.pdf)
+#**Click to download [My Cv](docs/My_Cv_withenglish.pdf)**
 
 # Education
 
--   B.S., Industrial Engineering, Hacettepe University, Turkey, 2021 - ongoing.
+- B.S., Industrial Engineering, Hacettepe University, Turkey, 2021 - ongoing.
 
 # Work Experience
 
-- I have no work experience yet
+- I have no work experience yet.
 
 ## Employements
 
@@ -18,7 +18,7 @@ sidebar: false
 
 ## Internships
 
-- I have not done an internship yet
+- I have not done an internship yet.
 
 # Projects
 
@@ -30,4 +30,4 @@ R, Quarto, Git, Python, MatLab
 
 # Hobbies
 
--Playing football, playing table tennis, urban downhill, playing video games
+-Playing football, playing table tennis, urban downhill, playing online games on pc etc.
