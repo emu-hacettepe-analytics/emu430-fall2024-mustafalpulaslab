@@ -2,7 +2,7 @@
 title: "About Me"
 sidebar: false 
 ---
-![](docs/ben_foto_siyah_beyaz.jpg){width=20%}
+![](docs/ben_foto_siyah_beyaz.jpg){width=30%}
 
 *Mustafa Alp Ulas*
 
