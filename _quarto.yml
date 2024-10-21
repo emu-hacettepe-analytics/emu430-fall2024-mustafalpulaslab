@@ -24,11 +24,11 @@ website:
             
     tools:
       - icon: github
-        href: https://twitter.com
+        href: https://github.com/mustafalpulaslab
       - icon: twitter
-        href: https://twitter.com
+        href: https://x.com/MustafaAlpUla1
       - icon: linkedin
-        href: https://linkedin.com
+        href: https://www.linkedin.com/in/mustafaalpulas
 
   sidebar:
     - title: "Assignments"
