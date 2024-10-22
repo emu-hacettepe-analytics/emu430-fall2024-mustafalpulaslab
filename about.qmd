@@ -2,31 +2,36 @@
 title: "About Me"
 sidebar: false 
 ---
-![](docs/ben_foto_siyah_beyaz.jpg){width=30%}
+
+![](docs/ben_foto_siyah_beyaz.jpg){width="30%"}
 
 *Mustafa Alp Ulas*
 
 **Click to download [My Cv](docs/My_Cv_withenglish.pdf)**
 
+**MY SUMMARY**{width = %35}
+
+**Hi! My name is Mustafa Alp. I am junior at Hacettepe University. I am trying to finish my Bachelor's Degree in Industrial Engineering. I like playing football. When I was a child, I was playing football in local team which is Akdeniz Timsahlari in Alanya. This team is a pilot team of Bursa Spor Football Club. Also, I like playing table tennis, Professor Dr. Murat Caner TESTIK confirms that I play table tennis well :). In addition, I am interested in biking but extreme one. It is called "Downhill" or "Urban Downhill". I like playing online games which are fps games on pc. I am a pc gamer by the way. If the subject is industrial engineering, I love Industrial Engineering. When I was 10 years old, I decided that I would become an industrial engineer when I grew up. So that, I chose Industrial Engineering English program of Hacettepe University. I loved Operation Research and Programming Application. But I can say that, I don't like Probability and Statistic Topics. But I have to know. This is my summary in briefly. Have a nice day :)**
+
 # Education
 
-- B.S., Industrial Engineering, Hacettepe University, Turkey, 2021 - ongoing.
+-   B.S., Industrial Engineering, Hacettepe University, Turkey, 2021 - ongoing.
 
 # Work Experience
 
-- I have no work experience yet.
+-   I have no work experience yet.
 
 ## Employements
 
-- I don't have any employements.
+-   I don't have any employements.
 
 ## Internships
 
-- I have not done an internship yet.
+-   I have not done an internship yet.
 
 # Projects
 
-- I don't have any projects.
+-   I don't have any projects.
 
 # Competencies
 

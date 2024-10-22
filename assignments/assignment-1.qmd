@@ -4,64 +4,94 @@ title: "Assignment 1"
 
 My first assignment has two parts.
 
-## (a) 
+## (a)
+
 I chose the video where Baykal Hafizoglu was the guest.
 
 **Summary**
 
-To begin with, Baykal Hafizoglu introduced himself. He talked about his academic achievements, work experiences and hobbies. He talked about the projects that took part in. He mentioned that he was both the owner and developer of a program called SupplY Chain Solver.Secondly, he talked about data analytics world. He divided the analytics world in four pieces such as Descriptive, Diagnostic, Predictive, Prescriptive. He even compared Prescriptive Analytics to a doctor writing a prescription.He related the data analytics world pieces to the industrial engineering courses and emphasized the importance of these relationships.Thirdly, he talked about analytical solutions and methods. He gave some examples which is given at daily life about analytical methods.
-In addition, he talked about his obtainments.He recommended defining the problem first in all cases. He suggested that if I was developing a model, I should share that model with people. He said that staying on the computer would not be beneficial. He said that if I am doing a job, I have to present it in a language that everyone can understand. He said that after all the work, it would be useful to go back to problem definition. Finally, He answered questions from students such as Aykut.
+To begin with, Baykal Hafizoglu introduced himself. He talked about his academic achievements, work experiences and hobbies. He talked about the projects that took part in. He mentioned that he was both the owner and developer of a program called Supply Chain Solver. Secondly, he talked about data analytics world. He divided the analytics world in four pieces such as Descriptive, Diagnostic, Predictive, Prescriptive. He even compared Prescriptive Analytics to a doctor writing a prescription.He related the data analytics world pieces to the industrial engineering courses and emphasized the importance of these relationships. Thirdly, he talked about analytical solutions and methods. He gave some examples which is given at daily life about analytical methods. In addition, he talked about his obtainments. He recommended defining the problem first in all cases. He suggested that if I was developing a model, I should share that model with people. He said that staying on the computer would not be beneficial. He said that if I am doing a job, I have to present it in a language that everyone can understand. He said that after all the work, it would be useful to go back to problem definition. Finally, He answered questions from students such as Aykut.
 
 **First Question**
 
-1) Can you give an example of the Descriptive->Predictive->Prescriptive process from your daily life?
+1)  Can you give an example of the Descriptive-\>Predictive-\>Prescriptive process from your daily life?
 
-*Answer:* "Daily Inventory Level -> Demand Forecast -> Safety Stock Optimization" or "Mortgage Application -> Applicant's Loan Score Estimation -> Mortgage Decision"
+*Answer:* "Daily Inventory Level -\> Demand Forecast -\> Safety Stock Optimization" or "Mortgage Application -\> Applicant's Loan Score Estimation -\> Mortgage Decision"
 
 **Second Question**
 
-2) What is KPI short for?
+2)  What is KPI short for?
 
-a) Key Personalizing Index
+<!-- -->
 
-b) Kit Personal intensiveness
+a)  Key Personalizing Index
 
-c) Key Performance Indicator
+b)  Kit Personal intensiveness
 
-d) Knot Pair Import
+c)  Key Performance Indicator **(This is the answer)**
+
+d)  Knot Pair Import
 
 ## (b)
 
 I explained it step by step using code chunks.
 
 **First Step**
+
+We need a uploading dslabs library if is not included . Task 1: Import the 'polls_us_election_2016' data set from dslabs.
+
 ```{r}
-# We need a library
 library(dslabs)
-# Import the 'polls_us_election_2016' data set from dslabs
 data(polls_us_election_2016)
 ```
 
 **Second Step**
-```{r}
-# Display the first 10 rows of the data set on your web page.
-head(polls_us_election_2016, 10)# head function from second week slide and help part
 
+Task 2: Display the first 10 rows of the data set on your web page.
+
+```{r}
+head(polls_us_election_2016, 10)
 ```
 
 **Third Step**
+
+Task 3: Calculate and display the total number of NA values in the entire data set. I used is.na function. I knew this function from lecture slides and Aykut's Website. (By the way, Aykut's Website is superfly)
+
 ```{r}
-# Calculate and display the total number of NA values in the entire data set
-total_number_of_na <- sum(is.na(polls_us_election_2016))
-print(total_number_of_na)
+total_number_of_none_available <- sum(is.na(polls_us_election_2016))
+print(total_number_of_none_available)
 ```
 
 **Fourth Step**
 
-- in progress
+Task 4: Replace all NA values with my first name and my birth year. First of all, I must define two variable which are my first name and my birth year. Then, I have to define a function which is evaluate of data variables equal to NA value or not. I take some help from your's slides about function structure. Thirdly, I must replace NA values with my name and my birth year by using my function, as.data.frame and lapply function. I take some help from AI tool about lappy function and usage. Also I found lappy function from Google by searching such as replacing function in R. I used lecture slides and datacamp lessons. As you said, I stated where and how I received help. Finally, store the modified data set as a new object.
+
+```{r}
+my_birth_year <- 2003
+my_first_name <- "Mustafa"
+
+replace_na_function <- function(x) {
+  if (is.numeric(x)) {
+    return(ifelse(is.na(x), my_birth_year, x))  
+  } else {
+    return(ifelse(is.na(x), my_first_name, x))
+  }
+}
+
+polls_us_election_2016 <- as.data.frame(lapply(polls_us_election_2016, replace_na_function))
+
+modified_data <- polls_us_election_2016
+```
+
+I checked in step five whether the code worked or not.
 
 **Fifth Step**
 
-- in progress
+Task 5: Print the first 10 rows of the new data frame and the total number of NAs remaining in the new data frame. In this step, I check the code about working correctly. If the result is equal to 0, we have no NA values. They have all changed. I remember we did this kind of check in class. I used head function again for new data.
 
+```{r}
+total_number_of_na_for_modified <- sum(is.na(modified_data))
+print(total_number_of_na_for_modified)
 
+head(modified_data, 10)
+```
