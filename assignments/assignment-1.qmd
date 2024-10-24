@@ -64,34 +64,52 @@ print(total_number_of_none_available)
 
 **Fourth Step**
 
-Task 4: Replace all NA values with my first name and my birth year. First of all, I must define two variable which are my first name and my birth year. Then, I have to define a function which is evaluate of data variables equal to NA value or not. I take some help from your's slides about function structure. Thirdly, I must replace NA values with my name and my birth year by using my function, as.data.frame and lapply function. I take some help from AI tool about lappy function and usage. Also I found lappy function from Google by searching such as replacing function in R. I used lecture slides and datacamp lessons. As you said, I stated where and how I received help. Finally, store the modified data set as a new object.
+Task 4: Replace all NA values with my first name and my birth year. First of all, I  defined two variable which are my first name and my birth year. Secondly, I defined a function which is recursive function type. This function???s mission is to evaluate of data variables equal to NA value or not for  factor columns and this function has ???for loop??? with if-else statement for checking all columns and changing NA values. This function changed all NA values in numeric columns, character columns and factor columns with my birth yera and my first name. Finally, I assigned a variable which is equal to changed data by this function. In this part, I take some helps from slides, AI tools, datacamp lectures and friends about loop structure, function structure, use of if-else statement, use of return statement, use of squared brackets and use of levels function. Especially, I used AI on using for loop. I know for loops structure, but using if-else and functions inside each other in the for loop structure was very difficult for me. Recursive function idea was coming from my mind after 20 or 30 trials. Most of my error is state values changed by numeric value. I still don't understand why I'm getting an error.
 
 ```{r}
-my_birth_year <- 2003
-my_first_name <- "Mustafa"
+birth_year <- 2003
+first_name <- "Mustafa"
 
-replace_na_function <- function(x) {
-  if (is.numeric(x)) {
-    return(ifelse(is.na(x), my_birth_year, x))  
-  } else {
-    return(ifelse(is.na(x), my_first_name, x))
+
+replace_na_general <- function(data, birth_year, first_name) {
+  
+  
+  replace_na_in_factor <- function(factor_col, replacement) {
+    levels(factor_col) <- c(levels(factor_col), replacement) 
+    factor_col[is.na(factor_col)] <- replacement             
+    return(factor_col)
   }
+  
+  
+  for (col in names(data)) {
+    if (is.numeric(data[[col]])) {
+      
+      data[[col]][is.na(data[[col]])] <- birth_year
+    } else if (is.character(data[[col]])) {
+      
+      data[[col]][is.na(data[[col]])] <- first_name
+    } else if (is.factor(data[[col]])) {
+      
+      data[[col]] <- replace_na_in_factor(data[[col]], first_name)
+    }
+  }
+  
+  return(data)  # G??ncellenen veri ??er??evesini d??nd??r
 }
 
-polls_us_election_2016 <- as.data.frame(lapply(polls_us_election_2016, replace_na_function))
-
-modified_data <- polls_us_election_2016
+modified_data <- replace_na_general(polls_us_election_2016, birth_year, first_name)
 ```
 
 I checked in step five whether the code worked or not.
 
 **Fifth Step**
 
-Task 5: Print the first 10 rows of the new data frame and the total number of NAs remaining in the new data frame. In this step, I check the code about working correctly. If the result is equal to 0, we have no NA values. They have all changed. I remember we did this kind of check in class. I used head function again for new data.
+Task 5: Print the first 10 rows of the new data frame and the total number of NAs remaining in the new data frame. In this step, I checked the code about working correctly. If the result is equal to 0, we have no NA values. They have all changed. I remember we did this kind of check in class. I used head function again for new data.
 
 ```{r}
-total_number_of_na_for_modified <- sum(is.na(modified_data))
-print(total_number_of_na_for_modified)
+total_na_number_new <- sum(is.na(modified_data))
+print(total_na_number_new)
 
 head(modified_data, 10)
 ```
+
