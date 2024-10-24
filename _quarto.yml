@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "[Mustafa Alp Ulas]'s Analytics Lab"
+  title: "Mustafa Alp Ulas's Analytics Lab"
   navbar:
     background: "dark"
     foreground: "light"
