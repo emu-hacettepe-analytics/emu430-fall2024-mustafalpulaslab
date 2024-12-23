@@ -4,14 +4,14 @@
     "href": "project.html",
     "title": "Our Course Project",
     "section": "",
-    "text": "I’m honored to be a member of the [group name] project team.\nBelow, you’ll find a brief summary of our project. To access a detailed project description, please go to https://[your-project-url].\nSummary\n[provide a biref summary of your project]\n\n\n\n Back to top"
+    "text": "I’m honored to be a member of the NRG project team.\nBelow, you’ll find a brief summary of our project. To access a detailed project description.\nSummary\nThis project explores the role of electric vehicles (EVs) in reducing carbon emissions compared to traditional vehicles. Please check our project website\n\n\n\n Back to top"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Welcome to My Analytics Lab",
     "section": "",
-    "text": "MY NAME IS MUSTAFA ALP. THIS IS MY PERSONAL WEBPAGE. PLEASE STAY TUNED TO FOLLOW MY WORKS ON DATA ANALYTICS AND MORE. ! ! DO WHAT EXCITES ! !\n\n\n\n\n\n Back to top"
+    "text": "MY NAME IS MUSTAFA ALP. THIS IS MY PERSONAL WEBPAGE. PLEASE STAY TUNED TO FOLLOW MY WORKS ON DATA ANALYTICS AND MORE. ! ! DO WHAT EXCITES ! !\n\n\n\n Back to top"
   },
   {
     "objectID": "assignments/assignment-2.html",
@@ -56,7 +56,7 @@
     "href": "assignments.html",
     "title": "My Assignments",
     "section": "",
-    "text": "On this page, I showcase the assignment I conducted for the [term and year, e.g. Fall 2024] EMU430 Data Analytics course.\nPlease use left menu to navigate through my assignments.\nThe most recent update to this page was made on October 22, 2024\n\n\n\n Back to top",
+    "text": "On this page, I showcase the assignment I conducted for the Fall 2024 EMU430 Data Analytics course.\nPlease use left menu to navigate through my assignments.\nThe most recent update to this page was made on October 22, 2024\n\n\n\n Back to top",
     "crumbs": [
       "My Assignments"
     ]
@@ -66,7 +66,7 @@
     "href": "posts.html",
     "title": "My Summary",
     "section": "",
-    "text": "Hi! My name is Mustafa Alp. I am junior at Hacettepe University. I am trying to finish my Bachelor’s Degree in Industrial Engineering. I like playing football. When I was a child, I was playing football in local team which is Akdeniz Timsahlari in Alanya. This team is a pilot team of Bursa Spor Football Club. Also, I like playing table tennis, Professor Dr. Murat Caner TESTIK confirms that I play table tennis well :). In addition, I am interested in biking but extreme one. It is called “Downhill” or “Urban Downhill”. I like playing online games which are fps games on pc. I am a pc gamer by the way. If the subject is industrial engineering, I love Industrial Engineering. When I was 10 years old, I decided that I would become an industrial engineer when I grew up. So that, I chose Industrial Engineering English program of Hacettepe University. I loved Operation Research and Programming Application. But I can say that, I don’t like Probability and Statistic Topics. But I have to know. This is my summary in briefly. Have a nice day :)\n\n\n\n Back to top"
+    "text": "Hi! My name is Mustafa Alp. I am junior at Hacettepe University. I am trying to finish my Bachelor’s Degree in Industrial Engineering. I like playing football. When I was a child, I was playing football in local team which is Akdeniz Timsahlari in Alanya. This team is a pilot team of Bursa Spor Football Club. Also, I like playing table tennis, Professor Dr. Murat Caner TESTIK confirms that I play table tennis well :). In addition, I am interested in biking but extreme one. It is called “Downhill” or “Urban Downhill”. I like playing online games which are fps games on pc. I am a pc gamer by the way. If the subject is industrial engineering, I love Industrial Engineering. When I was 10 years old, I decided that I would become an industrial engineer when I grew up. So that, I chose Industrial Engineering English program of Hacettepe University. I loved Operation Research and Programming Application. But I can say that, I don’t like Probability and Statistic Topics. But I have to know. This is my summary in briefly. Have a nice day :)\n\n\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "assignments/assignment-1.html#a",
@@ -87,5 +87,12 @@
     "crumbs": [
       "Assignment 1"
     ]
+  },
+  {
+    "objectID": "index.html#my-name-is-mustafa-alp.-this-is-my-personal-webpage.-please-stay-tuned-to-follow-my-works-on-data-analytics-and-more.-do-what-excites",
+    "href": "index.html#my-name-is-mustafa-alp.-this-is-my-personal-webpage.-please-stay-tuned-to-follow-my-works-on-data-analytics-and-more.-do-what-excites",
+    "title": "Welcome to My Analytics Lab",
+    "section": "MY NAME IS MUSTAFA ALP. THIS IS MY PERSONAL WEBPAGE. PLEASE STAY TUNED TO FOLLOW MY WORKS ON DATA ANALYTICS AND MORE. ! ! DO WHAT EXCITES ! !",
+    "text": "MY NAME IS MUSTAFA ALP. THIS IS MY PERSONAL WEBPAGE. PLEASE STAY TUNED TO FOLLOW MY WORKS ON DATA ANALYTICS AND MORE. ! ! DO WHAT EXCITES ! !"
   }
 ]

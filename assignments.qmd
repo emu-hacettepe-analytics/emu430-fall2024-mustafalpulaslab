@@ -1,8 +1,9 @@
 ---
 title: "My Assignments"
 ---
+![](docs/kowalski-analysis-thinking.gif){fig-align="center" width="40%"}
 
-On this page, I showcase the assignment I conducted for the \[term and year, e.g. Fall 2024\] EMU430 Data Analytics course.
+On this page, I showcase the assignment I conducted for the Fall 2024 EMU430 Data Analytics course.
 
 Please use left menu to navigate through my assignments.
 

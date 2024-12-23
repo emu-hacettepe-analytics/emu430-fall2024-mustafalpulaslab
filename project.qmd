@@ -3,10 +3,11 @@ title: "Our Course Project"
 sidebar: false 
 ---
 
-I'm honored to be a member of the \[group name\] project team.
+I'm honored to be a member of the NRG project team.
 
-Below, you'll find a brief summary of our project. To access a detailed project description, please go to [https://\[your-project-url\]](#0){.uri}.
+Below, you'll find a brief summary of our project. To access a detailed project description.
 
 **Summary**
 
-\[provide a biref summary of your project\]
+This project explores the role of electric vehicles (EVs) in reducing carbon emissions compared to traditional vehicles.
+[Please check our project website](https://emu-hacettepe-analytics.github.io/emu430-fall2024-team-nrg/)

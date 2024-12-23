@@ -3,4 +3,6 @@ title: "Welcome to My Analytics Lab"
 sidebar: false 
 ---
 
-![MY NAME IS MUSTAFA ALP. THIS IS MY PERSONAL WEBPAGE. PLEASE STAY TUNED TO FOLLOW MY WORKS ON DATA ANALYTICS AND MORE. ! ! DO WHAT EXCITES ! !](docs/tatli_bebek.jpg){width="35%"}
+![](docs/black-teacher.gif){fig-align="center" width="25%"}
+
+MY NAME IS MUSTAFA ALP. THIS IS MY PERSONAL WEBPAGE. PLEASE STAY TUNED TO FOLLOW MY WORKS ON DATA ANALYTICS AND MORE. ! ! DO WHAT EXCITES ! !

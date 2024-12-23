@@ -3,7 +3,7 @@ title: "About Me"
 sidebar: false 
 ---
 
-![](docs/ben_foto_siyah_beyaz.jpg){width="30%"}
+![](docs/chill-guy.gif){width="30%"}
 
 *Mustafa Alp Ulas*
 
@@ -31,8 +31,8 @@ sidebar: false
 
 # Competencies
 
-R, Quarto, Git, Python, MatLab
+-  R, Quarto, Git, Python, MatLab
 
 # Hobbies
 
--Playing football, playing table tennis, urban downhill, playing online games on pc etc.
+-  Playing football, playing table tennis, urban downhill, playing online games on pc etc.
