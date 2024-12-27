@@ -9,5 +9,4 @@ Below, you'll find a brief summary of our project. To access a detailed project 
 
 **Summary**
 
-This project explores the role of electric vehicles (EVs) in reducing carbon emissions compared to traditional vehicles.
-[Please check our project website](https://emu-hacettepe-analytics.github.io/emu430-fall2024-team-nrg/)
+Our project investigates the impact of electric vehicles (EVs) on reducing CO2 emissions and evaluates their integration within Turkey. EVs are widely acknowledged for their environmental benefits, particularly their potential to significantly reduce transportation-related carbon emissions. This study emphasizes that while the adoption of EVs can play a crucial role in emission reduction, its effectiveness is closely tied to factors such as population density and the transition to renewable energy in electricity generation. [Please check our project website](https://emu-hacettepe-analytics.github.io/emu430-fall2024-team-nrg/)
