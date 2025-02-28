@@ -3,6 +3,12 @@ title: "Welcome to My Analytics Lab"
 sidebar: false 
 ---
 
-![](docs/black-teacher.gif){fig-align="center" width="25%"}
+![](docs/chill-guy.gif){width="30%"}
 
-MY NAME IS MUSTAFA ALP. THIS IS MY PERSONAL WEBPAGE. PLEASE STAY TUNED TO FOLLOW MY WORKS ON DATA ANALYTICS AND MORE. ! ! DO WHAT EXCITES ! !
+Hi! My name is Mustafa Alp Ulas. This is my personal website. You can check my personal information, assignments and projects about data visualization.
+
+[**If you want to reach my CV directly, click here.**]()
+
+[**If you want to reach our Data Project website link directly, click here.**](https://emu-hacettepe-analytics.github.io/emu430-fall2024-team-nrg/)
+
+![](docs/black-teacher.gif){width="25%"}

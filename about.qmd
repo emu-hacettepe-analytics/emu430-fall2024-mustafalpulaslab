@@ -3,7 +3,7 @@ title: "About Me"
 sidebar: false 
 ---
 
-![](docs/chill-guy.gif){width="30%"}
+![](docs/ben_foto_siyah_beyaz.jpg){fig-align="center" width="200"}
 
 *Mustafa Alp Ulas*
 
@@ -27,12 +27,12 @@ sidebar: false
 
 # Projects
 
--   I don't have any projects.
+-   Investigation of the impact of electric vehicles (EVs) on reducing CO2 emissions and evaluates their integration within Turkey. [Please check our project website, Click it!!](https://emu-hacettepe-analytics.github.io/emu430-fall2024-team-nrg/)
 
 # Competencies
 
--  R, Quarto, Git, Python, MatLab
+-   R, Quarto, Git, Python, MatLab, SQL
 
 # Hobbies
 
--  Playing football, playing table tennis, urban downhill, playing online games on pc etc.
+-   Playing football, playing table tennis, urban downhill, playing online games on pc etc.
