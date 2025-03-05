@@ -7,7 +7,7 @@ sidebar: false
 
 *Mustafa Alp Ulas*
 
-**Click to download [My Cv](docs/CV.pdf)**
+**Click to download [My Cv](docs/CV_updated.pdf)**
 
 # Education
 
