@@ -23,7 +23,7 @@ sidebar: false
 
 ## Internships
 
--   I have not done an internship yet.
+-   Mercedes Benz Türk Internal and External Material Flow Planning Intern (07.2025 - 08.2025)
 
 # Projects
 
@@ -31,7 +31,7 @@ sidebar: false
 
 # Competencies
 
--   R, Quarto, Git, Python, MatLab, SQL
+-   R, Quarto, Git, Python, MatLab, SQL, Power BI
 
 # Hobbies
 
