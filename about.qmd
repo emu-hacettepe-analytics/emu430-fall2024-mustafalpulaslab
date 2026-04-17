@@ -3,27 +3,25 @@ title: "About Me"
 sidebar: false 
 ---
 
-![](docs/ben_foto_siyah_beyaz.jpg){fig-align="center" width="200"}
+![](docs/linkedin%20fotoğrafım.png){fig-align="center" width="200"}
 
-*Mustafa Alp Ulas*
+*Mustafa Alp Ulaş*
 
-**Click to download [My Cv](docs/CV_updated.pdf)**
+**Click to download [CV](docs/mustafa_alp_ulas_cv.pdf)**
 
 # Education
 
--   B.S., Industrial Engineering, Hacettepe University, Turkey, 2021 - ongoing.
+-   B.S., Industrial Engineering, Hacettepe University, Turkey, Sept 2021 - June 2026.
 
 # Work Experience
 
 -   I have no work experience yet.
 
-## Employements
-
--   I don't have any employements.
-
 ## Internships
 
--   Mercedes Benz Türk Internal and External Material Flow Planning Intern (07.2025 - 08.2025)
+-   Internal and External Material Flow Planning Intern, **Mercedes-Benz Türk A.Ş.** – Aksaray, Türkiye
+
+-   Project Quality Intern– HBT (Communication & Information Technologies), **ASELSAN** - Ankara, Türkiye
 
 # Projects
 
@@ -31,8 +29,8 @@ sidebar: false
 
 # Competencies
 
--   R, Quarto, Git, Python, MatLab, SQL, Power BI
+-   R, Python, SQL, Power BI, Excel VBA, Gurobi, Quality Management, Quality Assurance, Minitab
 
 # Hobbies
 
--   Playing football, playing table tennis, urban downhill, playing online games on pc etc.
+-   Football, Table Tennis, Playing FPS Games, Downhill Biking, Tennis
