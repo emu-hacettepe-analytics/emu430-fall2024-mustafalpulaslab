@@ -9,9 +9,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Welcome to My Analytics Lab",
+    "title": "Welcome to My Website",
     "section": "",
-    "text": "Hi! My name is Mustafa Alp Ulas. This is my personal website. You can check my personal information, assignments and projects about data visualization.\nIf you want to reach my CV directly, click here.\nIf you want to reach our Data Project website link directly, click here.\n\n\n\n\n Back to top"
+    "text": "Click to download CV\n\nEducation\n\nB.S., Industrial Engineering, Hacettepe University, Turkey, Sept 2021 - June 2026.\n\n\n\nInternships\n\nInternal and External Material Flow Planning Intern, Mercedes-Benz Türk A.Ş. – Aksaray, Türkiye\nProject Quality Intern– HBT (Communication & Information Technologies), ASELSAN - Ankara, Türkiye\n\n\n\nProjects\n\nConducted data-driven analysis on EV adoption and CO₂ emission reduction in Turkey, emphasizing the influence of population density and renewable energy transition on sustainability outcomes. (Project Website Link!)\n\n\n\nWork Experience\n\nI have no work experience yet.\n\n\n\nCompetencies\n\nR, Python, SQL, Power BI, Excel VBA, Gurobi, Quality Management, Quality Assurance, Minitab\n\n\n\nHobbies\n\nFootball, Table Tennis, Playing FPS Games, Downhill Biking, Tennis\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "assignments/assignment-2.html",
@@ -25,7 +25,7 @@
     "href": "about.html",
     "title": "About Me",
     "section": "",
-    "text": "Mustafa Alp Ulaş\nClick to download CV"
+    "text": "WHO IS MUSTAFA ALP ULAŞ?\nI am a senior Industrial Engineering student at Hacettepe University with a strong focus on data-driven decision making, process improvement, and operational efficiency. Throughout my academic and professional journey, I have developed a solid foundation in optimization, business intelligence, and quality management, which I actively apply to real-world engineering and logistics problems.\nI gained hands-on experience through my internships at ASELSAN and Mercedes-Benz Türk, where I worked on project quality management and logistics planning processes. During these experiences, I designed and implemented Power BI dashboards to monitor key performance indicators (KPIs), transforming raw operational data into meaningful insights. By automating reporting processes and improving data consistency, I contributed to more efficient and transparent decision-making environments.\nAt ASELSAN, I focused on quality management systems and review monitoring processes, developing interactive dashboards to track review cycles and participation metrics. This experience strengthened my understanding of quality assurance, traceability, and performance monitoring in complex engineering environments.\nAt Mercedes-Benz Türk, I worked on internal and external material flow planning, where I developed KPI dashboards integrating multiple logistics metrics. My work reduced manual reporting time significantly while ensuring full data consistency, enhancing the overall efficiency of the reporting process.\nCurrently, I am working on my graduation project in collaboration with UPS, where I am developing a mathematical optimization model to minimize transportation costs under vehicle capacity and service constraints. I am implementing this model using Python and Gurobi, and further improving it with metaheuristic approaches and real-world data integration. This project reflects my strong interest in operations research, logistics optimization, and decision support systems.\nFrom a technical perspective, I have experience with Python (Pandas, NumPy), R, SQL, Power BI, and Excel VBA. I am particularly interested in combining analytical tools with engineering principles to solve complex operational problems and create scalable, data-driven solutions.\nBeyond my professional interests, I actively engage in sports and competitive activities such as football, tennis, and table tennis, which strengthen my discipline, teamwork, and strategic thinking skills. I also enjoy downhill biking, which reflects my enthusiasm for challenges and dynamic environments, as well as playing FPS games that enhance my focus, quick decision-making, and reflexes.\nI am a proactive and analytical thinker who values continuous improvement, structured problem solving, and effective communication. I enjoy working in dynamic environments where I can contribute to both operational excellence and strategic decision-making.\nI am especially interested in opportunities related to project quality management, logistics and supply chain optimization, and business intelligence. My goal is to contribute to large-scale, data-driven operations, particularly in industries such as defense, manufacturing, and transportation, where efficiency, precision, and quality are critical.\nI am always open to connecting with professionals, exchanging ideas, and exploring opportunities where I can create value through data, optimization, and engineering.\n\n\n\n Back to top"
   },
   {
     "objectID": "about.html#employements",
@@ -66,7 +66,7 @@
     "href": "posts.html",
     "title": "My Summary",
     "section": "",
-    "text": "Hi! My name is Mustafa Alp. I am junior at Hacettepe University. I am trying to finish my Bachelor’s Degree in Industrial Engineering. I like playing football. When I was a child, I was playing football in local team which is Akdeniz Timsahlari in Alanya. This team is a pilot team of Bursa Spor Football Club. Also, I like playing table tennis, Professor Dr. Murat Caner TESTIK confirms that I play table tennis well :). In addition, I am interested in biking but extreme one. It is called “Downhill” or “Urban Downhill”. I like playing online games which are fps games on pc. I am a pc gamer by the way. If the subject is industrial engineering, I love Industrial Engineering. When I was 10 years old, I decided that I would become an industrial engineer when I grew up. So that, I chose Industrial Engineering English program of Hacettepe University. I loved Operation Research and Programming Application. But I can say that, I don’t like Probability and Statistic Topics. But I have to know. This is my summary in briefly. Have a nice day :)\n\n\n\n Back to top"
+    "text": "IN PROGRESS!!\n\n\n\n Back to top"
   },
   {
     "objectID": "assignments/assignment-1.html#a",
@@ -94,5 +94,12 @@
     "title": "Welcome to My Analytics Lab",
     "section": "MY NAME IS MUSTAFA ALP. THIS IS MY PERSONAL WEBPAGE. PLEASE STAY TUNED TO FOLLOW MY WORKS ON DATA ANALYTICS AND MORE. ! ! DO WHAT EXCITES ! !",
     "text": "MY NAME IS MUSTAFA ALP. THIS IS MY PERSONAL WEBPAGE. PLEASE STAY TUNED TO FOLLOW MY WORKS ON DATA ANALYTICS AND MORE. ! ! DO WHAT EXCITES ! !"
+  },
+  {
+    "objectID": "index.html#internships",
+    "href": "index.html#internships",
+    "title": "Welcome to My Website",
+    "section": "Internships",
+    "text": "Internships\n\nInternal and External Material Flow Planning Intern, Mercedes-Benz Türk A.Ş. – Aksaray, Türkiye\nProject Quality Intern– HBT (Communication & Information Technologies), ASELSAN - Ankara, Türkiye"
   }
 ]

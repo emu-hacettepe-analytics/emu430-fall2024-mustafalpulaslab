@@ -3,34 +3,26 @@ title: "About Me"
 sidebar: false 
 ---
 
-![](docs/linkedin%20fotoğrafım.png){fig-align="center" width="200"}
+![](docs/linkedin%20fotoğrafım.png){width="200"}
 
-*Mustafa Alp Ulaş*
+**WHO IS MUSTAFA ALP ULAŞ?**
 
-**Click to download [CV](docs/mustafa_alp_ulas_cv.pdf)**
+I am a senior Industrial Engineering student at Hacettepe University with a strong focus on data-driven decision making, process improvement, and operational efficiency. Throughout my academic and professional journey, I have developed a solid foundation in optimization, business intelligence, and quality management, which I actively apply to real-world engineering and logistics problems.
 
-# Education
+I gained hands-on experience through my internships at ASELSAN and Mercedes-Benz Türk, where I worked on project quality management and logistics planning processes. During these experiences, I designed and implemented Power BI dashboards to monitor key performance indicators (KPIs), transforming raw operational data into meaningful insights. By automating reporting processes and improving data consistency, I contributed to more efficient and transparent decision-making environments.
 
--   B.S., Industrial Engineering, Hacettepe University, Turkey, Sept 2021 - June 2026.
+At ASELSAN, I focused on quality management systems and review monitoring processes, developing interactive dashboards to track review cycles and participation metrics. This experience strengthened my understanding of quality assurance, traceability, and performance monitoring in complex engineering environments.
 
-# Work Experience
+At Mercedes-Benz Türk, I worked on internal and external material flow planning, where I developed KPI dashboards integrating multiple logistics metrics. My work reduced manual reporting time significantly while ensuring full data consistency, enhancing the overall efficiency of the reporting process.
 
--   I have no work experience yet.
+Currently, I am working on my graduation project in collaboration with UPS, where I am developing a mathematical optimization model to minimize transportation costs under vehicle capacity and service constraints. I am implementing this model using Python and Gurobi, and further improving it with metaheuristic approaches and real-world data integration. This project reflects my strong interest in operations research, logistics optimization, and decision support systems.
 
-## Internships
+From a technical perspective, I have experience with Python (Pandas, NumPy), R, SQL, Power BI, and Excel VBA. I am particularly interested in combining analytical tools with engineering principles to solve complex operational problems and create scalable, data-driven solutions.
 
--   Internal and External Material Flow Planning Intern, **Mercedes-Benz Türk A.Ş.** – Aksaray, Türkiye
+Beyond my professional interests, I actively engage in sports and competitive activities such as football, tennis, and table tennis, which strengthen my discipline, teamwork, and strategic thinking skills. I also enjoy downhill biking, which reflects my enthusiasm for challenges and dynamic environments, as well as playing FPS games that enhance my focus, quick decision-making, and reflexes.
 
--   Project Quality Intern– HBT (Communication & Information Technologies), **ASELSAN** - Ankara, Türkiye
+I am a proactive and analytical thinker who values continuous improvement, structured problem solving, and effective communication. I enjoy working in dynamic environments where I can contribute to both operational excellence and strategic decision-making.
 
-# Projects
+I am especially interested in opportunities related to project quality management, logistics and supply chain optimization, and business intelligence. My goal is to contribute to large-scale, data-driven operations, particularly in industries such as defense, manufacturing, and transportation, where efficiency, precision, and quality are critical.
 
--   Investigation of the impact of electric vehicles (EVs) on reducing CO2 emissions and evaluates their integration within Turkey. [Please check our project website, Click it!!](https://emu-hacettepe-analytics.github.io/emu430-fall2024-team-nrg/)
-
-# Competencies
-
--   R, Python, SQL, Power BI, Excel VBA, Gurobi, Quality Management, Quality Assurance, Minitab
-
-# Hobbies
-
--   Football, Table Tennis, Playing FPS Games, Downhill Biking, Tennis
+I am always open to connecting with professionals, exchanging ideas, and exploring opportunities where I can create value through data, optimization, and engineering.
